@@ -1,0 +1,37 @@
+http://aduera.com/
+http://aduera.com/ product.php?sel_id=64&adv_id=2046
+http://aduera.com/ product.php?sel_id=64&adv_id=2050
+http://aduera.com/ product.php?sel_id=70&adv_id=2039
+http://aduera.com/#categories
+http://aduera.com/#for_buyer
+http://aduera.com/#for_seller
+http://aduera.com/#home
+http://aduera.com/#login
+http://aduera.com/#services
+http://aduera.com/#signup
+http://aduera.com/aduera_popular_searches.php
+http://aduera.com/chat/setto1.php
+http://aduera.com/featured_plans.php
+http://aduera.com/forgot_password.php
+http://aduera.com/ipc.php
+http://aduera.com/listing.php
+http://aduera.com/main/about_aduera.html
+http://aduera.com/main/contact_aduera.html
+http://aduera.com/main/help1.html
+http://aduera.com/main/join_aduera.php
+http://aduera.com/main/tac.html
+http://aduera.com/post_advertisement.php
+http://aduera.com/product.php?sel_id=103&adv_id=2087
+http://aduera.com/product.php?sel_id=103&adv_id=2088
+http://aduera.com/product.php?sel_id=64&adv_id=2046
+http://aduera.com/product.php?sel_id=64&adv_id=2050
+http://aduera.com/product.php?sel_id=70&adv_id=2039
+http://aduera.com/product.php?sel_id=75&adv_id=2078
+http://aduera.com/product.php?sel_id=78&adv_id=2080
+http://aduera.com/product.php?sel_id=78&adv_id=2081
+http://aduera.com/product.php?sel_id=88&adv_id=2082
+http://aduera.com/product.php?sel_id=88&adv_id=2083
+http://aduera.com/product.php?sel_id=88&adv_id=2084
+http://aduera.com/product.php?sel_id=88&adv_id=2085
+http://aduera.com/product.php?sel_id=88&adv_id=2086
+http://aduera.com/trending.php
