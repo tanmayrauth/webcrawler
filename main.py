@@ -24,7 +24,7 @@ def create_workers():
         t.start()
 
 
-# Do the next job in the queue
+# Do the next job in the queue to process 
 def work():
     while True:
         url = queue.get()
